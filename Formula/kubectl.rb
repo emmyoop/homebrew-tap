@@ -1,4 +1,4 @@
-class kubectl-opslevel < Formula
+class Kubectl < Formula
   desc "a command line tool that enables you to import & reconcile services with OpsLevel"
   homepage "https://www.opslevel.com/"
   version "v0.4.0"
